@@ -21,7 +21,6 @@ that all the downloaded files are in the same directory.
 * Highlight and execute creation of tables from line number 5 to 17 consecutively.
 * The environment is ready. Execute ```python3 client_app_lib.py``` in terminal.
 
-
 ## Database required
 Create a database in MySQL named "PharmaDBTest" consisting of the following relations
 * **TestManufacts** - Relation about *Pharmaceutical Manufacturers*
