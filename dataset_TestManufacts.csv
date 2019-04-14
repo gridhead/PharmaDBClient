@@ -1,0 +1,48 @@
+M001,Aurobindo Pharma,India,VERY HIGH,10,EXCELLENT,0,0,0,0,0,0,1
+M002,Advanced Chemicals,USA,VERY HIGH,10,EXCELLENT,0,0,0,0,0,0,0
+M003,Baxter International,Brazil,VERY HIGH,10,EXCELLENT,0,0,0,0,0,1,1
+M004,Boehringer-Ingelheim,Germany,VERY HIGH,10,EXCELLENT,0,0,0,0,0,1,0
+M005,Cadilla Healthcare,India,VERY HIGH,10,EXCELLENT,0,0,0,0,1,0,1
+M006,Cipla Chemicals,Bangladesh,VERY HIGH,10,EXCELLENT,0,0,0,0,1,0,0
+M007,Dabur Pharmaceuticals,India,VERY HIGH,10,EXCELLENT,0,0,0,0,1,1,1
+M008,Dr. Reddy’s Labs,India,VERY HIGH,10,EXCELLENT,0,0,0,0,1,1,0
+M009,Elder Pharmaceuticals,Australia,VERY HIGH,10,EXCELLENT,0,0,0,1,0,0,1
+M010,Emergent Biosolutions,Russia,VERY HIGH,10,EXCELLENT,0,0,0,1,0,0,0
+M011,Fabre-Kramer Pharma,Germany,HIGH,30,GOOD,0,0,0,1,0,1,1
+M012,Fresenius Medicare,Ireland,HIGH,30,GOOD,0,0,0,1,0,1,0
+M013,GlaxoSmithKline Ltd.,Bolivia,HIGH,30,GOOD,0,0,0,1,1,0,1
+M014,GlenMark Pharma,Poland,HIGH,30,GOOD,0,0,0,1,1,0,0
+M015,Hoffmann-La-Roche,Russia,HIGH,30,GOOD,0,0,0,1,1,1,1
+M016,Horizon Pharma,USA,HIGH,30,GOOD,0,0,0,1,1,1,0
+M017,Incepta Chemicals,Sri Lanka,HIGH,30,GOOD,0,0,1,0,0,0,1
+M018,Interphil Laboratories,Ireland,HIGH,30,GOOD,0,0,1,0,0,0,0
+M019,Johnson & Johnson,England,HIGH,30,GOOD,0,0,1,0,0,1,1
+M020,Juno Therapeutics,China,HIGH,30,GOOD,0,0,1,0,0,1,0
+M021,Kimia Farma,Japan,MODERATE,50,MEDIOCRE,0,0,1,0,1,0,1
+M022,Kyowa Hakko Kirin,Japan,MODERATE,50,MEDIOCRE,0,0,1,0,1,0,0
+M023,Lundbeck,Germany,MODERATE,50,MEDIOCRE,0,0,1,0,1,1,1
+M024,Lupin Limited,England,MODERATE,50,MEDIOCRE,0,0,1,0,1,1,0
+M025,MannKind Corporation,Indonesia,MODERATE,50,MEDIOCRE,0,0,1,1,0,0,1
+M026,Mallinckrodt Pharma,Indonesia,MODERATE,50,MEDIOCRE,0,0,1,1,0,0,0
+M027,Novabay Chemicals,Phillipines,MODERATE,50,MEDIOCRE,0,0,1,1,0,1,1
+M028,Novatris Pharma,Phillipines,MODERATE,50,MEDIOCRE,0,0,1,1,0,1,0
+M029,Otsuka Pharmaceuticals,South Korea,MODERATE,50,MEDIOCRE,0,0,1,1,1,0,1
+M030,Ortho-McNeil Pharma,Ukraine,MODERATE,50,MEDIOCRE,0,0,1,1,1,0,0
+M031,Pantheon Medicares,South Korea,LOW,70,POOR,0,0,1,1,1,1,1
+M032,PharmaCosmos Ltd.,Ukraine,LOW,70,POOR,0,0,1,1,1,1,0
+M033,Ranbaxy Laboratories,India,LOW,70,POOR,0,1,0,0,0,0,1
+M034,Reckitt Benckiser,Iraq,LOW,70,POOR,0,1,0,0,0,0,0
+M035,Sanofi Medicare,India,LOW,70,POOR,0,1,0,0,0,1,1
+M036,Stada Arzneimittel,Germany,LOW,70,POOR,0,1,0,0,0,1,0
+M037,Torrent Medicare,Iraq,LOW,70,POOR,0,1,0,0,1,0,1
+M038,Turing Pharma,Israel,LOW,70,POOR,0,1,0,0,1,0,0
+M039,Unichem Laboratories,Kazakistan,LOW,70,POOR,0,1,0,0,1,1,1
+M040,USV Private Limited,USA,LOW,70,POOR,0,1,0,0,1,1,0
+M041,Veloxis Pharmaceuticals,Israel,VERY LOW,90,BAD,0,1,0,1,0,0,1
+M042,Valeant International,Kazakistan,VERY LOW,90,BAD,0,1,0,1,0,0,0
+M043,Wallace Medicare,Australia,VERY LOW,90,BAD,0,1,0,1,0,1,1
+M044,Wockhardt,Germany,VERY LOW,90,BAD,0,1,0,1,0,1,0
+M045,Yuhan Corporation,China,VERY LOW,90,BAD,0,1,0,1,1,0,1
+M046,Yaketty-Yak Medicals,Bangladesh,VERY LOW,90,BAD,0,1,0,1,1,0,0
+M047,Zentiva Medicare,Sri Lanka,VERY LOW,90,BAD,0,1,0,1,1,1,1
+M048,Zandu Pharmaceuticals,India,VERY LOW,90,BAD,0,1,0,1,1,1,0
