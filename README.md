@@ -1,4 +1,4 @@
-# pharmadbclient
+# PharmaDBClient
 A user-friendly GUI assistant with administrator privileges for PharmaDB
 
 ## Getting the GUI up and running
