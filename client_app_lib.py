@@ -907,7 +907,7 @@ def updatRecord():
     createRecWindow=Toplevel()
     createRecWindow.geometry("960x540")
     createRecWindow.resizable(0,0)
-    createRecWindow.title("Create Records")
+    createRecWindow.title("Update Records")
     createRecWindow.grab_set()
     WinTitlePag=Frame(createRecWindow,width=960,height=200,bd=1,relief="raise",bg="green")
     WinContents=Frame(createRecWindow,width=960,height=300,bd=1,relief="sunken")
